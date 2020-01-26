@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">HW2.1.3.TaskDates</string>
-    <string name="choose_start_date">Дата-время старchooseStartDateта задачи:</string>
-    <string name="choose_end_date">Дата-время окончания задачи:</string>
+    <string name="choose_start_date">Дата-время старта задачи: </string>
+    <string name="choose_end_date">Дата-время окончания задачи: </string>
     <string name="btn_ok">OK</string>
+    <string name="start">Старт:</string>
+    <string name="end">Окончание: </string>
+    <string name="error">Ошибка</string>
 </resources>

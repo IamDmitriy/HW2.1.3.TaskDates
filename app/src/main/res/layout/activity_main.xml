@@ -30,7 +30,7 @@
         android:layout_margin="16dp" />
 
     <CalendarView
-        android:id="@+id/endtDateCalendar"
+        android:id="@+id/endDateCalendar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#E2E2E2" />
